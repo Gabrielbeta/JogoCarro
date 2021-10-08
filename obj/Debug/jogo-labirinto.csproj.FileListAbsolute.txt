@@ -1,0 +1,28 @@
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\bin\Debug\jogo-labirinto.exe.config
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\bin\Debug\jogo-labirinto.exe
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\bin\Debug\jogo-labirinto.pdb
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo-labirinto.csprojAssemblyReference.cache
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo_labirinto.Properties.Resources.resources
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo-labirinto.csproj.GenerateResource.cache
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo-labirinto.csproj.CoreCompileInputs.cache
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo-labirinto.csproj.CopyComplete
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo-labirinto.exe
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo-labirinto.pdb
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo_labirinto.d.resources
+C:\Users\ggodoi\OneDrive - Padtec\Desktop\git\jogo-labirinto\obj\Debug\jogo_labirinto.abertura.resources
+C:\Users\ggodoi\Desktop\jogo-labirinto\bin\Debug\jogo-labirinto.exe.config
+C:\Users\ggodoi\Desktop\jogo-labirinto\bin\Debug\jogo-labirinto.exe
+C:\Users\ggodoi\Desktop\jogo-labirinto\bin\Debug\jogo-labirinto.pdb
+C:\Users\ggodoi\Desktop\jogo-labirinto\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ggodoi\Desktop\jogo-labirinto\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo-labirinto.csprojAssemblyReference.cache
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo_labirinto.abertura.resources
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo_labirinto.d.resources
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo_labirinto.Properties.Resources.resources
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo-labirinto.csproj.GenerateResource.cache
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo-labirinto.csproj.CoreCompileInputs.cache
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo-labirinto.csproj.CopyComplete
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo-labirinto.exe
+C:\Users\ggodoi\Desktop\jogo-labirinto\obj\Debug\jogo-labirinto.pdb
